@@ -25,7 +25,7 @@ Esse tutorial tem o objetivo de auxiliar na execução dos testes práticos das 
 sudo su -
 ```
 O comando acima solitara uma senha, digitar **ipv6br**
-- Executar o comando abaixo:
+- Executar os comandos abaixo:
 ```bash
 cd /media/VBox_GAs_6.1.22
 ./VBoxLinuxAdditions.run
