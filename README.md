@@ -3,7 +3,7 @@ Esse tutorial tem o objetivo de auxiliar na execução dos testes práticos das 
 - Pilha Dupla
 - Túnel 6to4 (Tunelamento)
 
-- Primeiramente será preciso baixar os programas abaixo:
+Primeiramente será preciso baixar os programas abaixo:
 - [Oracle VirtualBox](https://download.virtualbox.org/virtualbox/6.1.22/VirtualBox-6.1.22-144080-Win.exe)
 - [Baixar VM](https://ipv6.br/downloads/CursoIPv6br-CORE4.6-20150318.ova)
 
