@@ -92,7 +92,7 @@ node n6 {
     type router
     model PC
     network-config {
-	hostname pc2
+	hostname pc4
 	!
 	interface eth0
 	 ip address 192.168.0.21/24
@@ -363,7 +363,7 @@ annotation a15 {
     label {192.168.1.0/24}
     labelcolor #ff0000
     fontfamily {Arial}
-    fontsize 12
+    fontsize {12}
     canvas c1
 }
 
@@ -499,7 +499,7 @@ annotation a18 {
     label {192.168.1.1/24}
     labelcolor black
     fontfamily {Arial}
-    fontsize 12
+    fontsize {12}
     canvas c1
 }
 
