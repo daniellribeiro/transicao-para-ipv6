@@ -67,7 +67,8 @@ ip link set dev to1234 up
 ip -6 route add 2002:CB00:7101::2 dev to1234
 ip -6 route add ::/0 dev to1234
 ```
-- No relay6to4 digitar os comandos abaixo:
+- Clicar duas vezes em relay6to4
+- Digitar os comandos abaixo:
 ```
 ip addr add 2002:CB00:7101::2 dev lo
 ip tunnel add toABCD mode sit ttl 64 remote 192.168.0.20 local 192.88.99.1
