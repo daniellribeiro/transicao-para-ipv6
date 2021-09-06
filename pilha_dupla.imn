@@ -288,7 +288,7 @@ annotation a6 {
     label {REDE B - Pilha Dupla}
     labelcolor #ff0000
     fontfamily {Arial}
-    fontsize 12
+    fontsize {12}
     canvas c1
 }
 
@@ -319,7 +319,7 @@ annotation a10 {
     label {192.168.0.0/24}
     labelcolor #ff0000
     fontfamily {Arial}
-    fontsize 12
+    fontsize {12}
     canvas c1
 }
 
@@ -360,10 +360,10 @@ annotation a14 {
 annotation a15 {
     iconcoords {633.0 128.0}
     type text
-    label {192.0.3.0/24}
+    label {192.0.1.0/24}
     labelcolor #ff0000
     fontfamily {Arial}
-    fontsize {12}
+    fontsize 12
     canvas c1
 }
 
@@ -570,7 +570,7 @@ annotation a37 {
     label {2001:db8:1::20/64}
     labelcolor black
     fontfamily {Arial}
-    fontsize 12
+    fontsize {12}
     canvas c1
 }
 
@@ -610,7 +610,7 @@ annotation a41 {
     label {}
     labelcolor black
     fontfamily {Arial}
-    fontsize 12
+    fontsize {12}
     color #C0C0FF
     width 0
     border black
@@ -624,7 +624,7 @@ annotation a42 {
     label {}
     labelcolor black
     fontfamily {Arial}
-    fontsize 12
+    fontsize {12}
     color #00ff70
     width 0
     border black
@@ -638,7 +638,7 @@ annotation a43 {
     label {2001:db8:1::/64}
     labelcolor #ff0000
     fontfamily {Arial}
-    fontsize 12
+    fontsize {12}
     canvas c1
 }
 
@@ -655,7 +655,7 @@ annotation a45 {
     label {REDE C - IPV4}
     labelcolor #ff0000
     fontfamily {Arial}
-    fontsize 12
+    fontsize {12}
     canvas c1
 }
 
@@ -672,7 +672,7 @@ annotation a47 {
     label {}
     labelcolor black
     fontfamily {Arial}
-    fontsize 12
+    fontsize {12}
     color #00c0ff
     width 0
     border #b8ffff
