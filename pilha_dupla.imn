@@ -360,7 +360,7 @@ annotation a14 {
 annotation a15 {
     iconcoords {633.0 128.0}
     type text
-    label {192.0.1.0/24}
+    label {192.168.1.0/24}
     labelcolor #ff0000
     fontfamily {Arial}
     fontsize 12
@@ -494,12 +494,12 @@ annotation a2 {
 }
 
 annotation a18 {
-    iconcoords {655.0 205.0}
+    iconcoords {637.0 205.0}
     type text
-    label {192.0.1.1/24}
+    label {192.168.1.1/24}
     labelcolor black
     fontfamily {Arial}
-    fontsize {12}
+    fontsize 12
     canvas c1
 }
 
