@@ -58,7 +58,7 @@ reboot
 ```
 ping6 2001:db8:0::20
 ```
-- Em packet loss deve aparecer 100%
+- Vai aparecer Network is unreachable
 - Ainda no pc1, executar os comandos abaixo:
 ``` 
 ip addr add 2002:CB00:7101::1 dev  lo
